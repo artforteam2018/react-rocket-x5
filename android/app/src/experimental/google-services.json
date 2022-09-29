@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "869193244554",
+    "project_id": "x5digital-rocketchat",
+    "storage_bucket": "x5digital-rocketchat.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:869193244554:android:9bf1bffff3f07d01d47273",
+        "android_client_info": {
+          "package_name": "tech.x5food.rocketchat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "869193244554-89d6hc36a3pq9bqmbgfh8v75pa3e30io.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC2-_zNkHvYD99HDImXcGKlOrVru16laoU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "869193244554-89d6hc36a3pq9bqmbgfh8v75pa3e30io.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
